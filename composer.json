@@ -17,6 +17,6 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"AdnanHussainTurki": "src/"}
+        "psr-4": {"AdnanHussainTurki\\": "src/"}
     }
 }
