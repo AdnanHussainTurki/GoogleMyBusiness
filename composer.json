@@ -3,7 +3,7 @@
     "description": "A GOTO PHP Wrapper for GoogleMyBusiness",
     "type": "library",
     "require": {
-        "google/apiclient": "^2.9"
+        "google/apiclient": "^2.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
