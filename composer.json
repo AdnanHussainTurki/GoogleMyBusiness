@@ -1,0 +1,22 @@
+{
+    "name": "adnanhussainturki/google-my-business-php",
+    "description": "A GOTO PHP Wrapper for GoogleMyBusiness",
+    "type": "library",
+    "require": {
+        "google/apiclient": "^2.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adnan Hussain Turki",
+            "email": "adnanhussainturki@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"AdnanHussainTurki": "src/"}
+    },
+}
