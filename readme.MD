@@ -119,7 +119,7 @@ The GMB works something like this. Your Google Account have many accounts (usual
 - You cannot add products
 - You cannot add offer in posts
 - You cannot add more than one media in the post
-There may other limitations also. You may let us know about it.
+- There may other limitations also. You may let us know about it.
 
 ###### By Library
 This library only concerns for following functions (as of now)
@@ -129,7 +129,7 @@ This library only concerns for following functions (as of now)
 - List Medias of each location
 - Create media for a location
 - Create post for a location
-Feel free to contribute/raise issue.
+- Feel free to contribute/raise issue.
 
 ### Buy me a coffee
 [![](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9YWRuYW50dXJraSZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD1mZjgxM2Y=&creator=adnanturki&is_creating=building%20cool%20things%20every%20single%20f**king%20day.&design_code=1&design_color=%23ff813f&slug=adnanturki)](https://www.buymeacoffee.com/adnanturki)
